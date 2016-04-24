@@ -13,7 +13,7 @@ The primary method in use by physicians to screen for lung cancer is  radiograph
 
 
 ## Data
-Data was collected from the Cancer Imaging Archive http://www.cancerimagingarchive.net
+Data was collected from the Cancer Imaging Archive   http://www.cancerimagingarchive.net  
 
 #### Datasets
 **SPIE-AAPM Lung CT Challenge**    
