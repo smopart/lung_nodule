@@ -12,5 +12,34 @@ The primary method in use by physicians to screen for lung cancer is  radiograph
 
 
 
+## Data
+Data was collected from the Cancer Imaging Archive http://www.cancerimagingarchive.net
+
+### Datasets
+SPIE-AAPM Lung CT Challenge
+70 patients
+https://wiki.cancerimagingarchive.net/display/DOI/SPIE-AAPM-NCI+Lung+Nodule+Classification+Challenge+Dataset
+
+Lung Image Database Consortium Image Collection [LIDC-IDRI]
+1010 patients
+https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
+
 
 ## Technologies Used
+
+### Amazon Web Services
+EC2: G2 GPU instance
+  -1 GPU, 8 vCPU, 15 GiB Memory, 60GB SSD Storage
+
+### Python Libraries
+Numpy
+Pandas
+scikit-learn
+PyDicom
+MoviePy
+Flask/HTML/CSS
+
+### Neural Network Libraries
+Theano
+Lasagne
+CUDNN
