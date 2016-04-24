@@ -28,8 +28,8 @@ https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
 ## Technologies Used
 
 #### Amazon Web Services
-EC2: G2 GPU instance
-  -1 GPU, 8 vCPU, 15 GiB Memory, 60GB SSD Storage
+EC2: G2 GPU instance  
+  -1 GPU, 8 vCPU, 15 GiB Memory, 60GB SSD Storage  
 
 #### Python Libraries  
 Numpy  
