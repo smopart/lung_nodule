@@ -16,7 +16,9 @@ Given the high prevalence of lung cancer screening and the harmful effects of ex
 
 
 ## Data
-Data was collected from the Cancer Imaging Archive   http://www.cancerimagingarchive.net  
+Data was collected from the Cancer Imaging Archive  
+
+http://www.cancerimagingarchive.net  
 
 #### Datasets
 **SPIE-AAPM Lung CT Challenge**    
