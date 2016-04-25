@@ -288,9 +288,12 @@ a:focus {
     }
 }
 
+
+
 .content-section {
     padding-top: 100px;
-    
+
+
 }
 
 .download-section {
@@ -304,6 +307,10 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
 }
+
+.ctupload-section {
+    background-color: #000;
+    color: #4BF
 
 
 }
