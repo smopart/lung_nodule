@@ -1,0 +1,11 @@
+Patient_ID,Patient_Sex,Patient_Age,Nodule_x,Nodule_y,Nodule_z,Diagnosis
+ct-training-be001,F,73,405.0,296.0,169.0,benign
+ct-training-be002,F,69,184.0,268.0,117.0,benign
+ct-training-be006,M,49,449.0,266.0,241.0,benign
+ct-training-be007,M,66,385.0,206.0,194.0,benign
+ct-training-be010,M,66,120.0,336.0,69.0,benign
+ct-training-lc001,F,64,120.0,325.0,135.0,malignant
+ct-training-lc002,M,64,139.0,359.0,70.0,malignant
+ct-training-lc003,M,80,375.0,323.0,70.0,malignant
+ct-training-lc008,F,53,95.0,328.0,65.0,malignant
+ct-training-lc009,F,63,145.0,299.0,63.0,malignant

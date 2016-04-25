@@ -1,0 +1,11 @@
+Scan Number,Diagnosis,nodule_x,nodule_y,nodule_z
+CT-Training-lc001,malignant,120.0,325.0,135.0
+CT-Training-lc002,malignant,139.0,359.0,70.0
+CT-Training-lc003,malignant,375.0,323.0,70.0
+CT-Training-lc008,malignant,95.0,328.0,65.0
+CT-Training-lc009,malignant,145.0,299.0,63.0
+CT-Training-be001,benign,405.0,296.0,169.0
+CT-Training-be002,benign,184.0,268.0,117.0
+CT-Training-be006,benign,449.0,266.0,241.0
+CT-Training-be007,benign,385.0,206.0,194.0
+CT-Training-be010,benign,120.0,336.0,69.0

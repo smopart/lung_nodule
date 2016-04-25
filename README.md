@@ -42,4 +42,4 @@ Flask/HTML/CSS
 #### Neural Network Libraries  
 Theano  
 Lasagne  
-CUDNN  
+CUDA/cuDNN [Nvidia]
