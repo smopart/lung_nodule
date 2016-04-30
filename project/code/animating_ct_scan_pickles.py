@@ -7,6 +7,10 @@ import cPickle as pickle
 # X = first_ten[0]
 
 class IndexTracker(object):
+    '''
+    Creates a matplotlib object in which you can scroll through the
+    Z-axis of a three-dimensional array 
+    '''
     def __init__(self, ax, X):
         self.ax = ax
         ax.set_title('use scroll wheel to navigate images')

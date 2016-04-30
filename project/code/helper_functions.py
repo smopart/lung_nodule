@@ -68,7 +68,9 @@ def threshold_creator(fitted_model, X_test, y_test):
     return threshold_list, accuracy_list, precision_list, recall_list, f1_list
 
 def plotting_thresholds(threshold_list, accuracy_list, precision_list, recall_list, f1_list):
-
+    ''' Plots accuracy, precision, recall, and f1 score for thresholds
+    between 0 and 1 in increments of 0.01 
+    '''
     fig = plt.figure()
 
     ax1 = fig.add_subplot(221)
@@ -94,6 +96,9 @@ def plotting_thresholds(threshold_list, accuracy_list, precision_list, recall_li
     plt.tight_layout()
 
 def roc_curve_plot(actual, predictions):
+    '''
+    Plots a roc_curve given test and predicted data
+    '''
     false_positive_rate, true_positive_rate, thresholds = roc_curve(actual, predictions)
     roc_auc = auc(false_positive_rate, true_positive_rate)
 
