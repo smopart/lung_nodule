@@ -10,7 +10,7 @@ The primary method in use by physicians to screen for lung cancer is  radiograph
 Given the high prevalence of lung cancer screening and the harmful effects of excessive repeat radiation exposure, computational machine learning techniques have the potential to aid radiologists in their ability to spot lung nodules/tumors and minimize radiation exposure to patients. As Chest CT scans are representations of three-dimensional objects, I use a three-dimensional convolutional neural network to classify whether an area of the lung is likely to be healthy or a lung nodule/tumor.
 
 ## Neural Network Approach
-![alttext](https://github.com/smopart/lung_nodule/blob/master/project/CNN_Architecture.png" Logo Title Text 1")
+[[https://github.com/smopart/lung_nodule/blob/master/project/CNN_Architecture.png]]
 
 
 
