@@ -13,9 +13,9 @@ Given the high prevalence of lung cancer screening and the harmful effects of ex
 
 ![Architecture](https://github.com/smopart/lung_nodule/blob/master/project/multimedia/CNN_Architecture.png)
 
-## In Action
+## Lung Nodule Identifier In Action
 
-![Architecture](https://github.com/smopart/lung_nodule/blob/master/project/multimedia/green_ct_scan.gif)
+![Video](https://github.com/smopart/lung_nodule/blob/master/project/multimedia/green_ct_scan.gif)
 
 
 ## Data
