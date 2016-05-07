@@ -11,8 +11,11 @@ Given the high prevalence of lung cancer screening and the harmful effects of ex
 
 ## Neural Network Approach  
 
-![Architecture](https://github.com/smopart/lung_nodule/blob/master/project/CNN_Architecture.png)
+![Architecture](https://github.com/smopart/lung_nodule/blob/master/project/multimedia/CNN_Architecture.png)
 
+## In Action
+
+![Architecture](https://github.com/smopart/lung_nodule/blob/master/project/multimedia/green_ct_scan.gif)
 
 
 ## Data
