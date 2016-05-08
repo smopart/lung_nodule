@@ -11,7 +11,7 @@ Given the high prevalence of lung cancer screening and the harmful effects of ex
 
 ## Neural Network Approach  
 
-![Architecture](https://github.com/smopart/lung_nodule/blob/master/project/multimedia/CNN_Architecture.png)
+![Architecture](https://github.com/smopart/lung_nodule/blob/master/project/multimedia/CNN_Architecture2.png)
 
 ## Lung Nodule Identifier In Action
 
