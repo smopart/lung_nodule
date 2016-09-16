@@ -1,4 +1,5 @@
 # Applying 3D Convolutional Neural Networks to Identify Lung Nodules on Chest CT Scans
+### Sris Moparthy
 
 ## Background
 Lung Cancer is a heterogenous and aggressive form of cancer and is the leading cause of cancer death in men and women, accounting for etiology of 1 in every 4 cancer deaths in the United States. There were 224,000 new cases of lung cancer and 158,000 deaths caused by lung cancer in 2016.
